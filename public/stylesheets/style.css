@@ -6,3 +6,12 @@ body {
 a {
   color: #00B7FF;
 }
+
+.captcha-vidget {
+	width: 140px;
+	text-align: center;
+}
+
+.my-captcha:hover {
+	cursor: pointer;
+}
